@@ -1,6 +1,6 @@
 # How Many Licks?
 
-**A stupidly simple app to answer a timeless question by way of chaotic consensus**
+**A stupidly simple counter app to answer a timeless question by way of chaotic consensus**
 
 Check out the dev blog for more: https://nikmclaughlin.com/blog
 
