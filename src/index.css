@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components{
+	.main-btn {
+		font-size: 1.875rem/* 30px */;
+		line-height: 2.25rem/* 36px */;
+		background-color: rgb(71 85 105);
+		border-radius: 0.75rem/* 12px */;
+		padding: 1.5rem/* 24px */;
+	}
+}
